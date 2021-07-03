@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.blog-area-one {
+    background-color: lightpink;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 5px solid greenyellow;
+}
